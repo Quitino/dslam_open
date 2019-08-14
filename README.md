@@ -1,4 +1,5 @@
 # Data-Efficient Decentralized Visual SLAM
+[泡泡推荐词](https://mp.weixin.qq.com/s?__biz=MzI5MTM1MTQwMw==&mid=2247501201&idx=1&sn=d10d4f84c37ad6e44f148091807077db&chksm=ec137b95db64f28352517dc4d69b1e771f6d894e6e60127519721bb5d36a4a56131c5b4165f6&mpshare=1&scene=1&srcid=&sharer_sharetime=1565751363513&sharer_shareid=7f2ef8062db941cd6f362e2b47bfec4b&pass_ticket=F%2FDcQUFoziFQRIZO5nFqbGSWQROwfTXyyFj%2B3FTug77yGQBpxqgMTzUTPyXdfXYW#rd)
 
 ![dslam](doc/dslam_5x.gif)
 
